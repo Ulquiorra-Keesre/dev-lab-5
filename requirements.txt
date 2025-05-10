@@ -2,3 +2,7 @@ fastapi
 httpx
 pytest
 uvicorn
+pydantic_settings
+pydantic
+python-multipart
+requests
